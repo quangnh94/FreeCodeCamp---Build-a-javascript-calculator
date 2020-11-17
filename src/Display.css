@@ -1,0 +1,19 @@
+.display {
+  width: 85%;
+  height: 65px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid #b4b39d;
+  border-radius: 6px;
+  background-color: #c3c2ab;
+}
+
+.current-value {
+  font-size: 30px;
+  margin-bottom: 0;
+  margin-right: 10px;
+}
+
+small {
+  margin-right: 10px;
+}
